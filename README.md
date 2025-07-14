@@ -5,9 +5,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PublicBoy01/PublicBoy01/output/github-contribution-grid-snake.svg">
 </picture>
 
-## memo 📝
-![Tech Stack](https://skillicons.dev/icons?i=js,typescript,react,next,nodejs,python,docker)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PublicBoy01&layout=donut)](https://github.com/PublicBoy01/github-readme-stats)
 
 
